@@ -1,0 +1,27 @@
+table {
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    text-align: left;
+    padding: 20px;
+    border-collapse: collapse;
+    min-width: 700px;
+}
+
+
+tr,th {background-color: rgb(rgb(26, 70, 53), rgb(26, 70, 53), rgb(26, 70, 53));
+padding: 20px;
+text-align: left;
+border: 1px gray;
+border-radius: 10px;}
+
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+
+thead{text-align: left;
+padding: 10px;}
+
+.felso{border: 1px gray;}
+
+.masodik{border: 1px gray;}
