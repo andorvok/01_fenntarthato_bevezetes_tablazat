@@ -58,8 +58,8 @@ Számítógépek javítása csere előtt	....	...	...
 Keskeny képernyőn a táblázat vízszintesen görgethető. A sorok lehetséges hatásokat mutatnak, nem számszerű bizonyítékokat.
 
 Oktatási minta a 10. évfolyam HTML-táblázatos feladatához.
-
 Kiinduló olvasmány: Zöld Föld, 9–10. évfolyam, 11–12. oldal.
+
 
 
 ### Színek és betűtípusok
